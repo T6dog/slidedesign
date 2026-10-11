@@ -1,0 +1,33 @@
+{
+  "name": "slidedesign-original",
+  "version": 1,
+  "license": "MIT",
+  "brand_affiliation": null,
+  "canvas": {
+    "width": 1280,
+    "height": 720,
+    "aspect_ratio": "16:9"
+  },
+  "colors": {
+    "ink": "#17313B",
+    "teal": "#187F79",
+    "orange": "#C97035",
+    "muted": "#53656C",
+    "rule": "#CCD7D9",
+    "paper": "#FFFFFF",
+    "wash": "#F2F6F5"
+  },
+  "typography": {
+    "pptx": "DejaVu Sans",
+    "web": "system-ui, Arial, sans-serif",
+    "font_files_bundled": false,
+    "title_pt": 26,
+    "body_pt": 17,
+    "table_pt": 15,
+    "footer_pt": 9
+  },
+  "spacing": {
+    "margin_px": 64,
+    "gap_px": 32
+  }
+}

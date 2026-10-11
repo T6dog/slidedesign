@@ -21,3 +21,12 @@ Review date: 2026-10-11.
 No third-party tool, add-in, macro, installer or agent skill was executed. Licensing checks do not constitute a dependency or security audit. The original HTML and Markdown files are editable source templates; PowerPoint editability and browser/PDF rendering have not been certified. Cloud browser policy prevented opening the local HTML file for visual inspection. Template source structure and synthetic values were checked locally.
 
 The fork limitation does not prevent cloning the hub's upstream submodules. GitHub's archive ZIP does not contain submodule source trees; use Git for a complete checkout.
+
+
+## Integration update
+
+The later publication on main was preserved. Two reviewed source snapshots were added, bringing the total to 16 submodules, and the fork register was updated to eight verified account copies. The original templates, search evidence and documented remaining fork limitations remain available.
+
+Six original editable PowerPoint layouts were added. Package, 16:9 geometry and font checks passed; slide 2 has a native editable chart whose workbook values match 40 and 60, and slide 3 has a native table. Every final slide was rendered and visually inspected. The previews are pixel-identical to the inspected renders. Microsoft PowerPoint/Google Slides interactive testing was not performed.
+
+The added HTML has six sections, no external script/font dependency and valid JavaScript syntax. Local-file browser preview was unavailable. The added Slidev starter is source-only and was not runtime-rendered.

@@ -95,3 +95,10 @@ McKinsey, QuantumBlack, BCG, Bain and all other product names belong to their re
 - [Fork register](forks/README.md) records account copies and their purpose. Submodules point to upstream to retain clear provenance.
 
 Reviewed on **11 October 2026**. The search is a bounded sample, not a global ranking or a full legal/security audit. See [search evidence](docs/search-results.json).
+
+
+## Additional editable layouts and generators
+
+The collection now includes [six editable PowerPoint layouts](templates/original-consulting.pptx), [six-page HTML](templates/original-consulting.html) and a [Slidev starter](templates/slidev/slides.md). See the [editing guide](templates/POWERPOINT-GUIDE.md), [visual system](docs/powerpoint-visual-system.md) and [previews](templates/previews/). All are original MIT-licensed material with synthetic data.
+
+Two further reviewed source snapshots are available: [albertojb/mbb-ppt-generator](https://github.com/albertojb/mbb-ppt-generator), Apache-2.0 with retained attribution notices, and [Gnomeshgh0714/mbb-deck](https://github.com/Gnomeshgh0714/mbb-deck), MIT. These are additions beyond the documented top-ten search. The hub has **16 pinned submodules**. The [fork register](forks/README.md) now verifies **eight account-owned forks**; remaining account copies are explicitly recorded there.

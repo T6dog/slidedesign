@@ -1,0 +1,19 @@
+name: Check reviewed sources
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+          submodules: false
+      - name: Check pins and retained notices
+        run: bash scripts/check-licenses.sh --metadata-only
+      - name: Check shell syntax
+        run: bash -n scripts/clone-all.sh scripts/update-submodules.sh scripts/check-licenses.sh

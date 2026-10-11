@@ -40,3 +40,11 @@
 [submodule "external/marp-core"]
 	path = external/marp-core
 	url = https://github.com/marp-team/marp-core.git
+
+[submodule "external/mbb-ppt-generator"]
+	path = external/mbb-ppt-generator
+	url = https://github.com/albertojb/mbb-ppt-generator.git
+
+[submodule "external/mbb-deck"]
+	path = external/mbb-deck
+	url = https://github.com/Gnomeshgh0714/mbb-deck.git

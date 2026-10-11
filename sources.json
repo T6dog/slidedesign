@@ -77,7 +77,8 @@
         }
       ],
       "license_url": "https://github.com/likaku/Mck-ppt-design-skill/blob/e190e083b715b63172e1c4fea01bc5f9bb21a021/LICENSE",
-      "path": "external/mck-ppt-design-skill"
+      "path": "external/mck-ppt-design-skill",
+      "fork_url": "https://github.com/T6dog/ppt-design-skill"
     },
     {
       "id": "consulting-deck",
@@ -157,7 +158,8 @@
         }
       ],
       "license_url": "https://github.com/dwmkerr/claude-toolkit/blob/1d4fac984c7427b307fbdbc2a1f72e6a774ff8d6/LICENSE",
-      "path": "external/claude-toolkit"
+      "path": "external/claude-toolkit",
+      "fork_url": "https://github.com/T6dog/claude-toolkit"
     },
     {
       "id": "rw-consulting-ppt",
@@ -209,7 +211,8 @@
         }
       ],
       "license_url": "https://github.com/rodrigolourencofarinha/ProDeck/blob/fe8ef6a23841424777747fd09234bc11abc9247d/LICENSE",
-      "path": "external/prodeck"
+      "path": "external/prodeck",
+      "fork_url": "https://github.com/T6dog/ProDeck"
     },
     {
       "id": "presentation-skills",
@@ -253,7 +256,8 @@
         }
       ],
       "license_url": "https://github.com/norahe0304-art/30x-mckinsey-research-deck/blob/db4db36bd8c38c1ff83a41cec48f144c4d3acf71/LICENSE",
-      "path": "external/research-deck"
+      "path": "external/research-deck",
+      "fork_url": "https://github.com/T6dog/30x-research-deck"
     },
     {
       "id": "paopao",
@@ -297,7 +301,8 @@
         }
       ],
       "license_url": "https://github.com/analystacademy/flight-check/blob/ca975a186188eb62922bab59c2bc0b2a5d70382f/LICENSE",
-      "path": "external/flight-check"
+      "path": "external/flight-check",
+      "fork_url": "https://github.com/T6dog/flight-check"
     },
     {
       "id": "mbb-page-maker",
@@ -341,7 +346,8 @@
         }
       ],
       "license_url": "https://github.com/Rkamirage/consulting-research-to-output/blob/2a20ff238c91d44dc976b1e2509381964ba848ac/LICENSE",
-      "path": "external/consulting-research-to-output"
+      "path": "external/consulting-research-to-output",
+      "fork_url": "https://github.com/T6dog/consulting-research-to-output"
     },
     {
       "id": "deck-md",
@@ -498,6 +504,78 @@
       ],
       "license_url": "https://github.com/marp-team/marp-core/blob/01ef3a4ef0888403097e2c8f7988ea71c460cf97/LICENSE",
       "path": "external/marp-core"
+    },
+    {
+      "id": "mbb-ppt-generator",
+      "repository": "albertojb/mbb-ppt-generator",
+      "url": "https://github.com/albertojb/mbb-ppt-generator",
+      "type": "third-party",
+      "mode": "submodule",
+      "license": "Apache-2.0",
+      "api_spdx": "Apache-2.0",
+      "revision": "74169bc5672d25a762e3dde3f96ee74380ace0d8",
+      "stars": 3,
+      "pushed_at": "2026-06-22T14:58:00Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Independent PowerPoint generator derived from likaku. Preserves the upstream attribution chain in NOTICE; root and plugin notices are retained.",
+      "additional_top_ten": false,
+      "path": "external/mbb-ppt-generator",
+      "license_url": "https://github.com/albertojb/mbb-ppt-generator/blob/74169bc5672d25a762e3dde3f96ee74380ace0d8/LICENSE",
+      "fork_url": "https://github.com/T6dog/mbb-ppt-generator",
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/mbb-ppt-generator/LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+          "url": "https://github.com/albertojb/mbb-ppt-generator/blob/74169bc5672d25a762e3dde3f96ee74380ace0d8/LICENSE"
+        },
+        {
+          "upstream_path": "NOTICE",
+          "snapshot_path": "LICENSES/mbb-ppt-generator/NOTICE",
+          "sha256": "f31be3c223f9997df7ffc43bead40ff72edb3a3ec4797107036893b3dae8ae15",
+          "url": "https://github.com/albertojb/mbb-ppt-generator/blob/74169bc5672d25a762e3dde3f96ee74380ace0d8/NOTICE"
+        },
+        {
+          "upstream_path": "plugins/mbb-ppt-generator/LICENSE",
+          "snapshot_path": "LICENSES/mbb-ppt-generator/plugins/mbb-ppt-generator/LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+          "url": "https://github.com/albertojb/mbb-ppt-generator/blob/74169bc5672d25a762e3dde3f96ee74380ace0d8/plugins/mbb-ppt-generator/LICENSE"
+        },
+        {
+          "upstream_path": "plugins/mbb-ppt-generator/NOTICE",
+          "snapshot_path": "LICENSES/mbb-ppt-generator/plugins/mbb-ppt-generator/NOTICE",
+          "sha256": "f31be3c223f9997df7ffc43bead40ff72edb3a3ec4797107036893b3dae8ae15",
+          "url": "https://github.com/albertojb/mbb-ppt-generator/blob/74169bc5672d25a762e3dde3f96ee74380ace0d8/plugins/mbb-ppt-generator/NOTICE"
+        }
+      ]
+    },
+    {
+      "id": "mbb-deck",
+      "repository": "Gnomeshgh0714/mbb-deck",
+      "url": "https://github.com/Gnomeshgh0714/mbb-deck",
+      "type": "third-party",
+      "mode": "submodule",
+      "license": "MIT",
+      "api_spdx": "MIT",
+      "revision": "306b60c9760ec3b1d18355e5beb0905026841bff",
+      "stars": 2,
+      "pushed_at": "2026-09-02T06:52:31Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "HTML deck workflow. README explicitly excludes private client logos, photos and calibration exemplars from the public repository. Do not fetch those excluded private assets.",
+      "additional_top_ten": false,
+      "path": "external/mbb-deck",
+      "license_url": "https://github.com/Gnomeshgh0714/mbb-deck/blob/306b60c9760ec3b1d18355e5beb0905026841bff/LICENSE",
+      "fork_url": "https://github.com/T6dog/mbb-deck",
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/mbb-deck/LICENSE",
+          "sha256": "16d154896379d7d3167d8add68f031097202e25a91c2316d942910aa2644a666",
+          "url": "https://github.com/Gnomeshgh0714/mbb-deck/blob/306b60c9760ec3b1d18355e5beb0905026841bff/LICENSE"
+        }
+      ]
     }
   ],
   "web_sources": [
@@ -562,6 +640,42 @@
       "license": "Commercial/copyrighted; no redistribution grant verified",
       "mode": "link-only",
       "notes": "Additional reading on slide types. No text or layouts copied.",
+      "verified_on": "2026-10-11"
+    },
+    {
+      "id": "bcg-brand-reference",
+      "url": "https://www.bcg.com/ja-jp/bcg/logo",
+      "type": "official",
+      "mode": "link-only",
+      "license": "Brand assets; no redistribution license verified",
+      "notes": "Verified public brand reference, not a deck design handbook. No logo files downloaded or copied. No broader public BCG brand portal was verified.",
+      "verified_on": "2026-10-11"
+    },
+    {
+      "id": "bain-media",
+      "url": "https://www.bain.com/about/media-center/",
+      "type": "official",
+      "mode": "link-only",
+      "license": "Copyrighted; link only",
+      "notes": "Official public communications for observation. Not an open design system or licensed slide-template library.",
+      "verified_on": "2026-10-11"
+    },
+    {
+      "id": "slideworks-action-titles",
+      "url": "https://slideworks.io/resources/how-to-write-action-titles-like-mckinsey",
+      "type": "guide",
+      "mode": "link-only",
+      "license": "Copyrighted; link only",
+      "notes": "Third-party guide to conclusion-led slide headings. No article text or sample slides copied.",
+      "verified_on": "2026-10-11"
+    },
+    {
+      "id": "deckary-design",
+      "url": "https://deckary.com/blog/consulting-quality-slides",
+      "type": "guide",
+      "mode": "link-only",
+      "license": "Copyrighted; link only",
+      "notes": "Third-party guidance on narrative, evidence, layout and consistency. Commercial template availability is not an open license.",
       "verified_on": "2026-10-11"
     }
   ]

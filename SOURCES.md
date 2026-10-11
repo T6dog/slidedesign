@@ -130,3 +130,16 @@ Reviewed revision: [`01ef3a4ef088`](https://github.com/marp-team/marp-core/tree/
 ## Scope of verification
 
 License files, root notices, repository descriptions, READMEs and asset-path inventories were inspected. This is a curation review, not a complete dependency, security, trademark or legal audit. No upstream installer, macro or agent skill was executed. Public client decks, commercial template packs and firm-brand assets are excluded. Submodules pin reviewed revisions; future revisions require renewed review. See [search methodology](docs/search-methodology.md) and the machine-readable [manifest](sources.json).
+
+## Additional reviewed generators and template references
+
+Added while integrating the later publication on main. The original top-ten search and its evidence remain intact; these two generators are separately labelled additions.
+
+| Source | Type | License | Handling | Notes |
+| --- | --- | --- | --- | --- |
+| [albertojb/mbb-ppt-generator](https://github.com/albertojb/mbb-ppt-generator) | third-party | Apache-2.0 | submodule | Independent PowerPoint generator derived from likaku. Preserves the upstream attribution chain in NOTICE; root and plugin notices are retained. Reviewed commit: `74169bc5672d25a762e3dde3f96ee74380ace0d8`. |
+| [Gnomeshgh0714/mbb-deck](https://github.com/Gnomeshgh0714/mbb-deck) | third-party | MIT | submodule | HTML deck workflow. README explicitly excludes private client logos, photos and calibration exemplars from the public repository. Do not fetch those excluded private assets. Reviewed commit: `306b60c9760ec3b1d18355e5beb0905026841bff`. |
+| [bcg-brand-reference](https://www.bcg.com/ja-jp/bcg/logo) | official | Brand assets; no redistribution license verified | link-only | Verified public brand reference, not a deck design handbook. No logo files downloaded or copied. No broader public BCG brand portal was verified. |
+| [bain-media](https://www.bain.com/about/media-center/) | official | Copyrighted; link only | link-only | Official public communications for observation. Not an open design system or licensed slide-template library. |
+| [slideworks-action-titles](https://slideworks.io/resources/how-to-write-action-titles-like-mckinsey) | guide | Copyrighted; link only | link-only | Third-party guide to conclusion-led slide headings. No article text or sample slides copied. |
+| [deckary-design](https://deckary.com/blog/consulting-quality-slides) | guide | Copyrighted; link only | link-only | Third-party guidance on narrative, evidence, layout and consistency. Commercial template availability is not an open license. |
