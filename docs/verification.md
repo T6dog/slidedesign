@@ -14,6 +14,8 @@ Review date: 2026-10-11.
 - An unsupported update flag was rejected. The normal update script restored the reviewed pins and passed its final license check.
 - Six existing forks were verified, including their parent repositories. New account forks remain incomplete for the reason in the fork register.
 
+- Initial publication reached main at commit `a762f8312d62db71265af33d4bd0707f7df24e64`. GitHub returned tree `9d085f3c95dbbd29c29db010612b64db821069e8`, identical to the locally constructed tree. Remote tree inspection confirmed 14 gitlinks and four executable scripts.
+
 ## Boundaries
 
 No third-party tool, add-in, macro, installer or agent skill was executed. Licensing checks do not constitute a dependency or security audit. The original HTML and Markdown files are editable source templates; PowerPoint editability and browser/PDF rendering have not been certified. Cloud browser policy prevented opening the local HTML file for visual inspection. Template source structure and synthetic values were checked locally.

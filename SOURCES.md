@@ -125,7 +125,6 @@ Reviewed revision: [`01ef3a4ef088`](https://github.com/marp-team/marp-core/tree/
 | [slideworks-identity](https://slideworks.io/resources/decoding-mckinseys-visual-identity-and-powerpoint-template) | guide | Commercial/copyrighted; no redistribution grant verified; link only | Third-party visual-identity analysis. Historical font/color observations are not current official standards. |
 | [deckary](https://deckary.com/blog/slide-deck-design-tips) | guide | Commercial/copyrighted; no redistribution grant verified; link only | Publisher's slide-design guidance. Read at source; no article text, screenshots or paid templates copied. |
 | [deckary-checklist](https://deckary.com/blog/presentation-checklist) | guide | Commercial/copyrighted; no redistribution grant verified; link only | Presentation QA reference covering argument, evidence and presentation checks. Used as a reading link, not reproduced. |
-
 | [deckary-slide-types](https://deckary.com/blog/pillar-slide-types-guide) | guide | Commercial/copyrighted; link only | Further reading on slide types. No text or layouts copied. |
 
 ## Scope of verification
