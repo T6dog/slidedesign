@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>slidedesign original executive deck</title>
+<style>
+/* Original slidedesign template. MIT. No external assets or network calls. */
+:root { --ink:#243342; --muted:#526171; --accent:#1c6e73; --soft:#edf3f4; --rule:#b8c4cc; }
+* { box-sizing:border-box; }
+body { margin:0; background:#dfe5e8; color:var(--ink); font-family:Arial,Helvetica,sans-serif; }
+.slide { width:1600px; height:900px; margin:32px auto; padding:72px 88px 64px; background:white; position:relative; overflow:hidden; }
+h1 { font-size:48px; line-height:1.15; font-weight:650; margin:0 0 44px; max-width:1370px; }
+h2 { font-size:30px; margin:0 0 20px; }
+p,li,td,th { font-size:28px; line-height:1.42; }
+p { margin:0 0 26px; }
+.lead { font-size:34px; line-height:1.4; max-width:1200px; }
+.accent { color:var(--accent); }
+.two { display:grid; grid-template-columns:1.8fr 1fr; gap:72px; margin-top:44px; }
+.rule { border-top:2px solid var(--rule); padding-top:25px; }
+.caption { font-size:22px; color:var(--muted); }
+table { border-collapse:collapse; width:100%; margin-top:28px; }
+th,td { text-align:left; padding:20px 24px; border-bottom:1px solid var(--rule); vertical-align:top; }
+th { font-size:24px; background:var(--soft); }
+td { font-size:27px; }
+.selected { color:var(--accent); font-weight:700; }
+.barrow { display:grid; grid-template-columns:130px 1fr 80px; align-items:center; gap:24px; margin:34px 0; font-size:28px; }
+.track { height:60px; background:var(--soft); }
+.bar { height:100%; background:#8c9ba6; }
+.bar.focus { background:var(--accent); }
+footer { position:absolute; bottom:42px; left:88px; right:88px; display:flex; justify-content:space-between; border-top:1px solid var(--rule); padding-top:14px; color:var(--muted); font-size:20px; }
+.note { max-width:1180px; margin-top:30px; color:var(--muted); }
+@media screen and (max-width:1650px) { body { overflow-x:auto; } .slide { margin-left:16px; margin-right:16px; } }
+@media print { @page { size:1600px 900px; margin:0; } body { background:white; } .slide { margin:0; break-after:page; print-color-adjust:exact; -webkit-print-color-adjust:exact; } .slide:last-child { break-after:auto; } }
+</style>
+</head>
+<body>
+<section class="slide" aria-label="Decision summary">
+<h1>A bounded pilot is the next decision</h1>
+<p class="lead">A fictional service business will test a revised operating process in one region before deciding whether to expand it.</p>
+<div class="two">
+<div><h2 class="accent">Proposed decision</h2><p>Approve an eight-week pilot with a named owner, baseline and review gate.</p><p>Expansion depends on measurable improvement and acceptable operating cost.</p></div>
+<div class="rule"><h2>What remains uncertain</h2><p>Whether the observed delay comes from capacity, process variation or customer mix.</p></div>
+</div>
+<footer><span>Synthetic example. Replace all assumptions before use.</span><span>01</span></footer>
+</section>
+<section class="slide" aria-label="Comparative evidence">
+<h1>Region C has the longest lead time</h1>
+<p class="caption">Median lead time in days. Fictional regions. Common zero baseline, scale 0-30.</p>
+<div class="two">
+<div role="img" aria-label="Median lead time: Region A 12 days, Region B 18 days, Region C 26 days. Scale zero to thirty days.">
+<div class="barrow"><span>Region A</span><div class="track"><div class="bar" style="width:40%"></div></div><span>12</span></div>
+<div class="barrow"><span>Region B</span><div class="track"><div class="bar" style="width:60%"></div></div><span>18</span></div>
+<div class="barrow"><span>Region C</span><div class="track"><div class="bar focus" style="width:86.6667%"></div></div><span>26</span></div>
+</div>
+<div class="rule"><h2>Implication</h2><p>Investigate Region C first.</p><p class="caption">The comparison identifies a difference. It does not establish its cause.</p></div>
+</div>
+<footer><span>Source: invented data for template demonstration.</span><span>02</span></footer>
+</section>
+<section class="slide" aria-label="Options comparison">
+<h1>A pilot limits the initial commitment</h1>
+<table><thead><tr><th>Option</th><th>Learning</th><th>Initial commitment</th><th>Primary trade-off</th></tr></thead><tbody>
+<tr><td>Continue current process</td><td>Low</td><td>None</td><td>The delay may persist</td></tr>
+<tr><td class="selected">One-region pilot</td><td>Direct operational evidence</td><td>Bounded</td><td>Results may not generalize</td></tr>
+<tr><td>Full rollout</td><td>Broad coverage</td><td>High</td><td>Acts before the cause is clear</td></tr>
+</tbody></table>
+<p class="note">Selection reflects the fictional objective of learning before committing. Different constraints can change the ranking.</p>
+<footer><span>Source: synthetic qualitative assessment.</span><span>03</span></footer>
+</section>
+<section class="slide" aria-label="Implementation roadmap">
+<h1>The review gate precedes expansion</h1>
+<table><thead><tr><th>Timing</th><th>Deliverable</th><th>Owner</th><th>Acceptance evidence</th></tr></thead><tbody>
+<tr><td>Weeks 1-2</td><td>Baseline and test design</td><td>Analyst</td><td>Comparable population and agreed criteria</td></tr>
+<tr><td>Weeks 3-6</td><td>Pilot operation</td><td>Operations lead</td><td>Recorded outcomes, cost and exceptions</td></tr>
+<tr><td>Weeks 7-8</td><td>Results and decision</td><td>Sponsor</td><td>Decision documented against the criteria</td></tr>
+</tbody></table>
+<p class="note">Dependency: the sponsor agrees the evaluation criteria before the pilot starts.</p>
+<footer><span>Source: illustrative plan. Dates and owners require confirmation.</span><span>04</span></footer>
+</section>
+<section class="slide" aria-label="Assumption register">
+<h1>Three assumptions need validation</h1>
+<table><thead><tr><th>Assumption</th><th>Why it matters</th><th>Validation</th></tr></thead><tbody>
+<tr><td>Region definitions are comparable</td><td>Supports a meaningful baseline</td><td>Check scope and customer mix</td></tr>
+<tr><td>Eight weeks provides enough observations</td><td>Determines the strength of the result</td><td>Assess volume and variation before launch</td></tr>
+<tr><td>Operational capacity is available</td><td>Determines feasibility and cost</td><td>Confirm staffing and opportunity cost</td></tr>
+</tbody></table>
+<footer><span>Source: synthetic assumptions. This page is a working register.</span><span>05</span></footer>
+</section>
+</body>
+</html>

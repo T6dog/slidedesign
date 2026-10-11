@@ -1,0 +1,594 @@
+{
+  "searched_on": "2026-10-11",
+  "searches": [
+    {
+      "query": "consulting deck",
+      "url": "https://api.github.com/search/repositories?q=consulting+deck+fork%3Afalse&sort=stars&order=desc&per_page=30",
+      "total_count": 140,
+      "incomplete_results": false,
+      "error": null,
+      "results": [
+        {
+          "repository": "Pikapika260214/rw-consulting-ppt",
+          "stars": 473,
+          "pushed_at": "2026-10-07T12:23:11Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "rodrigolourencofarinha/ProDeck",
+          "stars": 101,
+          "pushed_at": "2026-06-25T22:43:36Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "appautomaton/presentation",
+          "stars": 62,
+          "pushed_at": "2026-09-13T16:01:21Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "norahe0304-art/30x-mckinsey-research-deck",
+          "stars": 46,
+          "pushed_at": "2026-07-09T13:49:21Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "Kakoutang/paopao",
+          "stars": 42,
+          "pushed_at": "2026-07-06T22:16:52Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "zairuilab/consulting-deck",
+          "stars": 26,
+          "pushed_at": "2026-10-02T16:16:04Z",
+          "api_spdx": "NOASSERTION"
+        },
+        {
+          "repository": "analystacademy/flight-check",
+          "stars": 24,
+          "pushed_at": "2026-05-13T06:02:00Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "floflo11/mbb-decks",
+          "stars": 19,
+          "pushed_at": "2026-05-05T17:53:18Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "NomiciAI/mbb-page-maker",
+          "stars": 10,
+          "pushed_at": "2026-06-18T19:05:34Z",
+          "api_spdx": "Apache-2.0"
+        },
+        {
+          "repository": "Rkamirage/consulting-research-to-output",
+          "stars": 5,
+          "pushed_at": "2026-08-07T14:56:21Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "gedonus/deck-economics",
+          "stars": 4,
+          "pushed_at": "2026-09-29T21:27:00Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "rodrigolourencofarinha/deck.md",
+          "stars": 4,
+          "pushed_at": "2026-05-05T22:19:07Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "BotTony329/consulting-deck-skill",
+          "stars": 2,
+          "pushed_at": "2026-08-24T11:19:21Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "citizendev9c/codex-ppt",
+          "stars": 2,
+          "pushed_at": "2026-05-06T17:12:55Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "frankglendon/deckforge",
+          "stars": 2,
+          "pushed_at": "2026-06-11T10:19:32Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "Gnomeshgh0714/mbb-deck",
+          "stars": 2,
+          "pushed_at": "2026-09-02T06:52:31Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "marcozhou26/oneask",
+          "stars": 2,
+          "pushed_at": "2026-08-11T03:19:48Z",
+          "api_spdx": "Apache-2.0"
+        },
+        {
+          "repository": "shruti2212-ctrl/automated-presentation-builder",
+          "stars": 2,
+          "pushed_at": "2026-07-05T13:38:07Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "CasemagicianAndi/business-agent-skill-stack",
+          "stars": 2,
+          "pushed_at": "2026-05-20T14:01:21Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "umarmsharif/ai-presentation-builder",
+          "stars": 2,
+          "pushed_at": "2026-06-19T17:04:23Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "dr-growth/os-audit",
+          "stars": 1,
+          "pushed_at": "2026-04-23T21:21:36Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "Ritusmita09/QuantiumConsultingPresentationDeck",
+          "stars": 1,
+          "pushed_at": "2026-07-26T15:24:41Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "switchingkeyboards/Design-Decks-Reports",
+          "stars": 1,
+          "pushed_at": "2022-02-21T03:56:04Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "cpx1939394887/consulting-slide-master",
+          "stars": 1,
+          "pushed_at": "2026-06-09T13:50:30Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "abhi-mxnyu25/Energy-Case-Challenge-Consulting-Pitch-Deck-",
+          "stars": 1,
+          "pushed_at": "2025-08-24T03:43:39Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "jamesyoung93/deck-builder",
+          "stars": 1,
+          "pushed_at": "2026-07-17T13:32:26Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "SevenAILab/pptmaster",
+          "stars": 1,
+          "pushed_at": "2026-07-03T13:56:04Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "deepakp999/data-storytelling-slides",
+          "stars": 1,
+          "pushed_at": "2026-06-10T06:56:56Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "paeb37/dexter",
+          "stars": 1,
+          "pushed_at": "2026-08-23T21:11:48Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "sjgant80-hub/operator",
+          "stars": 1,
+          "pushed_at": "2026-08-14T10:47:51Z",
+          "api_spdx": "MIT"
+        }
+      ]
+    },
+    {
+      "query": "MBB slides",
+      "url": "https://api.github.com/search/repositories?q=MBB+slides+fork%3Afalse&sort=stars&order=desc&per_page=30",
+      "total_count": 8,
+      "incomplete_results": false,
+      "error": null,
+      "results": [
+        {
+          "repository": "carlocamilloni/Structural-Bioinformatics",
+          "stars": 110,
+          "pushed_at": "2026-09-24T13:18:29Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "floflo11/mbb-decks",
+          "stars": 19,
+          "pushed_at": "2026-05-05T17:53:18Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "albertojb/mbb-ppt-generator",
+          "stars": 3,
+          "pushed_at": "2026-06-22T14:58:00Z",
+          "api_spdx": "Apache-2.0"
+        },
+        {
+          "repository": "trev0rr/executive-slide-skill",
+          "stars": 1,
+          "pushed_at": "2026-07-21T22:00:19Z",
+          "api_spdx": "Apache-2.0"
+        },
+        {
+          "repository": "sethchandler/MBB-slidedeck",
+          "stars": 1,
+          "pushed_at": "2025-10-25T17:11:08Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "zenli0626/topic-to-slides",
+          "stars": 0,
+          "pushed_at": "2026-07-24T06:40:21Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "pal815/ultimate-consulting-pack",
+          "stars": 0,
+          "pushed_at": "2026-06-23T04:37:11Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "seb-nu/ai-and-company",
+          "stars": 0,
+          "pushed_at": "2026-03-08T04:34:31Z",
+          "api_spdx": "MIT"
+        }
+      ]
+    },
+    {
+      "query": "McKinsey slide",
+      "url": "https://api.github.com/search/repositories?q=McKinsey+slide+fork%3Afalse&sort=stars&order=desc&per_page=30",
+      "total_count": 20,
+      "incomplete_results": false,
+      "error": null,
+      "results": [
+        {
+          "repository": "Olito-Labs/slides",
+          "stars": 4,
+          "pushed_at": "2026-03-30T20:42:33Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "chrisuzy/insights-to-slides",
+          "stars": 3,
+          "pushed_at": "2026-04-12T12:52:18Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "Taffyreclaimed45/ppt-agent",
+          "stars": 2,
+          "pushed_at": "2026-10-10T07:31:42Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "mwyrebkowski/institutional-slide-skill",
+          "stars": 1,
+          "pushed_at": "2026-02-22T23:04:17Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "sethchandler/MBB-slidedeck",
+          "stars": 1,
+          "pushed_at": "2025-10-25T17:11:08Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "eiler2005/slidecraft",
+          "stars": 1,
+          "pushed_at": "2026-10-11T11:29:17Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "DevTedd/GroupProjectMoringaWeek5",
+          "stars": 1,
+          "pushed_at": "2021-09-27T14:43:49Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "amina-005/mckinsey-slide",
+          "stars": 0,
+          "pushed_at": "2026-04-22T09:22:09Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "majinabhinav-gif/Mckinsey-Slides",
+          "stars": 0,
+          "pushed_at": "2026-07-12T02:57:34Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "COREkin/mckinsey-pptx-mcp",
+          "stars": 0,
+          "pushed_at": "2026-05-15T15:06:01Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "coltonheil/slidekit",
+          "stars": 0,
+          "pushed_at": "2026-08-09T19:11:56Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "supermi41/mckinsey-pptx",
+          "stars": 0,
+          "pushed_at": "2026-04-24T00:54:44Z",
+          "api_spdx": "NOASSERTION"
+        },
+        {
+          "repository": "romizone/presentasi",
+          "stars": 0,
+          "pushed_at": "2026-09-20T13:52:06Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "code4vectors-afk/mckinsey-deck-building",
+          "stars": 0,
+          "pushed_at": "2026-07-04T12:14:33Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "T6dog/slidedesign",
+          "stars": 0,
+          "pushed_at": "2026-10-11T12:06:42Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "bestmark1/Quick-Slides",
+          "stars": 0,
+          "pushed_at": "2026-03-13T14:34:41Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "leechangte-maker/slides-deck-builder",
+          "stars": 0,
+          "pushed_at": "2026-06-11T17:14:54Z",
+          "api_spdx": "NOASSERTION"
+        },
+        {
+          "repository": "th3hero/pixis.ai",
+          "stars": 0,
+          "pushed_at": "2026-09-06T03:25:31Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "KushieFishy/waisl-ppt-skill",
+          "stars": 0,
+          "pushed_at": "2026-08-20T05:56:59Z",
+          "api_spdx": "NOASSERTION"
+        },
+        {
+          "repository": "YaswanthSaiCh/Presentation_Automation",
+          "stars": 0,
+          "pushed_at": "2026-01-23T09:13:25Z",
+          "api_spdx": null
+        }
+      ]
+    },
+    {
+      "query": "BCG deck",
+      "url": "https://api.github.com/search/repositories?q=BCG+deck+fork%3Afalse&sort=stars&order=desc&per_page=30",
+      "total_count": 8,
+      "incomplete_results": false,
+      "error": null,
+      "results": [
+        {
+          "repository": "bcgov/bcgov-rstats-public-presentations",
+          "stars": 8,
+          "pushed_at": "2025-01-07T22:47:36Z",
+          "api_spdx": "NOASSERTION"
+        },
+        {
+          "repository": "sjgant80-hub/operator",
+          "stars": 1,
+          "pushed_at": "2026-08-14T10:47:51Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "KobayashiMakoto9331/bcg-deckmaker-vercel",
+          "stars": 0,
+          "pushed_at": "2026-03-01T14:02:09Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "farhan85azad/bcg-slide-engine",
+          "stars": 0,
+          "pushed_at": "2026-04-05T23:48:40Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "gankaili88/pitch-deck-generator",
+          "stars": 0,
+          "pushed_at": "2026-06-29T07:12:54Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "T6dog/slidedesign",
+          "stars": 0,
+          "pushed_at": "2026-10-11T12:06:42Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "legodud3/ppt-review-agent",
+          "stars": 0,
+          "pushed_at": "2026-04-14T10:45:02Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "zhysh3/consulting-ppt-skill",
+          "stars": 0,
+          "pushed_at": "2026-09-14T13:15:45Z",
+          "api_spdx": "MIT"
+        }
+      ]
+    },
+    {
+      "query": "Bain presentation",
+      "url": "https://api.github.com/search/repositories?q=Bain+presentation+fork%3Afalse&sort=stars&order=desc&per_page=30",
+      "total_count": 4,
+      "incomplete_results": false,
+      "error": null,
+      "results": [
+        {
+          "repository": "mwyrebkowski/institutional-slide-skill",
+          "stars": 1,
+          "pushed_at": "2026-02-22T23:04:17Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "VanniLeonardo/BAINSA",
+          "stars": 0,
+          "pushed_at": "2024-09-28T17:00:34Z",
+          "api_spdx": "Apache-2.0"
+        },
+        {
+          "repository": "learn-co-students/dsc-2-18-08-seperating-content-and-presentation-bain-trial-jan19",
+          "stars": 0,
+          "pushed_at": "2019-01-08T21:43:51Z",
+          "api_spdx": "NOASSERTION"
+        },
+        {
+          "repository": "fbahoken/ECTQG2019",
+          "stars": 0,
+          "pushed_at": "2019-09-16T10:28:15Z",
+          "api_spdx": "MIT"
+        }
+      ]
+    },
+    {
+      "query": "tier 1 consulting design system",
+      "url": "https://api.github.com/search/repositories?q=tier+1+consulting+design+system+fork%3Afalse&sort=stars&order=desc&per_page=30",
+      "total_count": 0,
+      "incomplete_results": false,
+      "error": null,
+      "results": []
+    },
+    {
+      "query": "pptx generator consulting",
+      "url": "https://api.github.com/search/repositories?q=pptx+generator+consulting+fork%3Afalse&sort=stars&order=desc&per_page=30",
+      "total_count": 3,
+      "incomplete_results": false,
+      "error": null,
+      "results": [
+        {
+          "repository": "albertojb/mbb-ppt-generator",
+          "stars": 3,
+          "pushed_at": "2026-06-22T14:58:00Z",
+          "api_spdx": "Apache-2.0"
+        },
+        {
+          "repository": "cscw95/idea-pitch-design-system",
+          "stars": 0,
+          "pushed_at": "2026-07-23T04:53:50Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "Shine8592/duduppt",
+          "stars": 0,
+          "pushed_at": "2026-09-16T02:29:18Z",
+          "api_spdx": "MIT"
+        }
+      ]
+    },
+    {
+      "query": "slidev consulting theme",
+      "url": "https://api.github.com/search/repositories?q=slidev+consulting+theme+fork%3Afalse&sort=stars&order=desc&per_page=30",
+      "total_count": 0,
+      "incomplete_results": false,
+      "error": null,
+      "results": []
+    },
+    {
+      "query": "design tokens consulting",
+      "url": "https://api.github.com/search/repositories?q=design+tokens+consulting+fork%3Afalse&sort=stars&order=desc&per_page=30",
+      "total_count": 12,
+      "incomplete_results": false,
+      "error": null,
+      "results": [
+        {
+          "repository": "kjalnes/madebydon",
+          "stars": 8,
+          "pushed_at": "2017-08-16T20:32:36Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "MLMAppFactory/Solana-Token-Development-Company",
+          "stars": 6,
+          "pushed_at": "2022-03-25T05:46:10Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "Mansoor1565/Elements-of-a-Metavers",
+          "stars": 4,
+          "pushed_at": "2022-02-12T21:46:27Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "plasticmind/site-practicaldesignsystems.com",
+          "stars": 3,
+          "pushed_at": "2024-08-25T23:28:23Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "Mansoor1565/Elements-of-a-Metaverse",
+          "stars": 3,
+          "pushed_at": "2022-02-12T21:42:47Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "hanovamx/design-system",
+          "stars": 0,
+          "pushed_at": "2026-05-25T19:26:07Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "guarasat/snoop-design-system",
+          "stars": 0,
+          "pushed_at": "2026-07-30T15:43:48Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "CCGDevSupport/CCG-Brand",
+          "stars": 0,
+          "pushed_at": "2026-09-02T14:41:33Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "bestdeejay-design/neo-consulting",
+          "stars": 0,
+          "pushed_at": "2026-08-16T19:31:43Z",
+          "api_spdx": "MIT"
+        },
+        {
+          "repository": "Hack-in-Peace/SAAS-Doctor-Consulting-Platform",
+          "stars": 0,
+          "pushed_at": "2025-07-21T09:12:05Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "EnescuDavid/presentation-builder",
+          "stars": 0,
+          "pushed_at": "2026-04-07T11:19:44Z",
+          "api_spdx": null
+        },
+        {
+          "repository": "apetterle/re-org-ai-brand-kit",
+          "stars": 0,
+          "pushed_at": "2026-08-26T22:48:04Z",
+          "api_spdx": "NOASSERTION"
+        }
+      ]
+    }
+  ]
+}

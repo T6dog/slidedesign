@@ -1,0 +1,42 @@
+[submodule "external/qbstyles"]
+	path = external/qbstyles
+	url = https://github.com/mckinsey/qbstyles.git
+[submodule "external/mck-ppt-design-skill"]
+	path = external/mck-ppt-design-skill
+	url = https://github.com/likaku/Mck-ppt-design-skill.git
+[submodule "external/claude-toolkit"]
+	path = external/claude-toolkit
+	url = https://github.com/dwmkerr/claude-toolkit.git
+[submodule "external/rw-consulting-ppt"]
+	path = external/rw-consulting-ppt
+	url = https://github.com/Pikapika260214/rw-consulting-ppt.git
+[submodule "external/prodeck"]
+	path = external/prodeck
+	url = https://github.com/rodrigolourencofarinha/ProDeck.git
+[submodule "external/research-deck"]
+	path = external/research-deck
+	url = https://github.com/norahe0304-art/30x-mckinsey-research-deck.git
+[submodule "external/flight-check"]
+	path = external/flight-check
+	url = https://github.com/analystacademy/flight-check.git
+[submodule "external/consulting-research-to-output"]
+	path = external/consulting-research-to-output
+	url = https://github.com/Rkamirage/consulting-research-to-output.git
+[submodule "external/deck-md"]
+	path = external/deck-md
+	url = https://github.com/rodrigolourencofarinha/deck.md.git
+[submodule "external/olito-slides"]
+	path = external/olito-slides
+	url = https://github.com/Olito-Labs/slides.git
+[submodule "external/dwmkerr-slides"]
+	path = external/dwmkerr-slides
+	url = https://github.com/dwmkerr/slides.git
+[submodule "external/slidev"]
+	path = external/slidev
+	url = https://github.com/slidevjs/slidev.git
+[submodule "external/pptxgenjs"]
+	path = external/pptxgenjs
+	url = https://github.com/gitbrent/PptxGenJS.git
+[submodule "external/marp-core"]
+	path = external/marp-core
+	url = https://github.com/marp-team/marp-core.git

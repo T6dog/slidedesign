@@ -1,0 +1,568 @@
+{
+  "schema_version": 1,
+  "verified_on": "2026-10-11",
+  "selection": "Top ten relevant additional repositories in the sampled GitHub API search results, ranked by stars, with activity recorded. Not a global ranking.",
+  "repositories": [
+    {
+      "id": "qbstyles",
+      "repository": "mckinsey/qbstyles",
+      "url": "https://github.com/mckinsey/qbstyles",
+      "type": "official",
+      "mode": "submodule",
+      "license": "Apache-2.0",
+      "api_spdx": "NOASSERTION",
+      "revision": "08fbd2361659d405fd0204aebe5ed8549cbcea25",
+      "stars": 413,
+      "pushed_at": "2024-07-10T11:27:18Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Light/dark Matplotlib styles. API reports NOASSERTION, but LICENSE explicitly incorporates Apache 2.0 and reserves trademarks. No consulting-firm logo or font binaries found in the inspected tree.",
+      "additional_top_ten": false,
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/qbstyles/LICENSE",
+          "sha256": "e6b8a2d0ccc93285793590497516ae3bae687ae816815741572104f3ae211d55",
+          "url": "https://github.com/mckinsey/qbstyles/blob/08fbd2361659d405fd0204aebe5ed8549cbcea25/LICENSE"
+        }
+      ],
+      "license_url": "https://github.com/mckinsey/qbstyles/blob/08fbd2361659d405fd0204aebe5ed8549cbcea25/LICENSE",
+      "path": "external/qbstyles"
+    },
+    {
+      "id": "quantumblack-design-system",
+      "repository": "mckinsey/quantumblack-design-system",
+      "url": "https://github.com/mckinsey/quantumblack-design-system",
+      "type": "official",
+      "mode": "link-only",
+      "license": "Apache-2.0 declaration",
+      "api_spdx": "NOASSERTION",
+      "revision": "13a3af0d9d598ac1f4d1cd09c5b87e47dbe5d82c",
+      "stars": 92,
+      "pushed_at": "2026-10-07T13:24:18Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Official UI component/token system, not a PowerPoint handbook. LICENSE.txt reserves McKinsey marks. Tree includes assets/logos/qb-logo-*.svg. Link only to respect the no-brand-assets constraint.",
+      "additional_top_ten": false,
+      "license_evidence": [],
+      "license_url": "https://github.com/mckinsey/quantumblack-design-system/blob/13a3af0d9d598ac1f4d1cd09c5b87e47dbe5d82c/LICENSE.txt"
+    },
+    {
+      "id": "mck-ppt-design-skill",
+      "repository": "likaku/Mck-ppt-design-skill",
+      "url": "https://github.com/likaku/Mck-ppt-design-skill",
+      "type": "third-party",
+      "mode": "submodule",
+      "license": "Apache-2.0",
+      "api_spdx": "Apache-2.0",
+      "revision": "e190e083b715b63172e1c4fea01bc5f9bb21a021",
+      "stars": 297,
+      "pushed_at": "2026-05-10T14:36:15Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Python slide engine, layout catalogue and QA helpers. Retain NOTICE. Independent project, not an official firm template. Example deck is presented as generated output.",
+      "additional_top_ten": false,
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/mck-ppt-design-skill/LICENSE",
+          "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+          "url": "https://github.com/likaku/Mck-ppt-design-skill/blob/e190e083b715b63172e1c4fea01bc5f9bb21a021/LICENSE"
+        },
+        {
+          "upstream_path": "NOTICE",
+          "snapshot_path": "LICENSES/mck-ppt-design-skill/NOTICE",
+          "sha256": "eb9636ea5c057a04be7ba609803e04e7c91f70c454b128839eb1c01f720caa33",
+          "url": "https://github.com/likaku/Mck-ppt-design-skill/blob/e190e083b715b63172e1c4fea01bc5f9bb21a021/NOTICE"
+        }
+      ],
+      "license_url": "https://github.com/likaku/Mck-ppt-design-skill/blob/e190e083b715b63172e1c4fea01bc5f9bb21a021/LICENSE",
+      "path": "external/mck-ppt-design-skill"
+    },
+    {
+      "id": "consulting-deck",
+      "repository": "zairuilab/consulting-deck",
+      "url": "https://github.com/zairuilab/consulting-deck",
+      "type": "third-party",
+      "mode": "link-only",
+      "license": "Apache-2.0-labelled modified text",
+      "api_spdx": "NOASSERTION",
+      "revision": "d25dd54913bc631b650f813b2f174d7eb111ceec",
+      "stars": 26,
+      "pushed_at": "2026-10-02T16:16:04Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Evidence and editable-PPTX workflow. LICENSE labels itself Apache 2.0 but shortens/changes standard clauses; API says NOASSERTION. Keep link-only until the author restores standard text or the variant is cleared.",
+      "additional_top_ten": false,
+      "license_evidence": [],
+      "license_url": "https://github.com/zairuilab/consulting-deck/blob/d25dd54913bc631b650f813b2f174d7eb111ceec/LICENSE"
+    },
+    {
+      "id": "mbb-decks",
+      "repository": "floflo11/mbb-decks",
+      "url": "https://github.com/floflo11/mbb-decks",
+      "type": "third-party",
+      "mode": "link-only",
+      "license": "MIT (code); asset rights unverified",
+      "api_spdx": "MIT",
+      "revision": "bfad75f60e8627e36a54b2a8d7f36b22126f4285",
+      "stars": 19,
+      "pushed_at": "2026-05-05T17:53:18Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Storyline and PPTX skill. Bundles numerous third-party company logos under assets/logos and example decks. Root MIT does not establish rights to every logo. Do not mirror or fork pending asset clearance.",
+      "additional_top_ten": false,
+      "license_evidence": [],
+      "license_url": "https://github.com/floflo11/mbb-decks/blob/bfad75f60e8627e36a54b2a8d7f36b22126f4285/LICENSE"
+    },
+    {
+      "id": "consulting-html-ppt",
+      "repository": "sharptoolbox/consulting-html-ppt",
+      "url": "https://github.com/sharptoolbox/consulting-html-ppt",
+      "type": "third-party",
+      "mode": "link-only",
+      "license": "No license found",
+      "api_spdx": null,
+      "revision": "aedddd1526f884e93cc629924c29f29f91413ae8",
+      "stars": 27,
+      "pushed_at": "2026-09-29T04:14:42Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "HTML presentation skill. License API returned 404 and no license file was found in the inspected tree. Public visibility is not permission to redistribute.",
+      "additional_top_ten": false,
+      "license_evidence": [],
+      "license_url": "https://api.github.com/repos/sharptoolbox/consulting-html-ppt/license"
+    },
+    {
+      "id": "claude-toolkit",
+      "repository": "dwmkerr/claude-toolkit",
+      "url": "https://github.com/dwmkerr/claude-toolkit",
+      "type": "third-party",
+      "mode": "submodule",
+      "license": "MIT",
+      "api_spdx": "MIT",
+      "revision": "1d4fac984c7427b307fbdbc2a1f72e6a774ff8d6",
+      "stars": 23,
+      "pushed_at": "2026-09-10T07:03:58Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Contains the qblabs Slidev theme at plugins/dwmkerr/skills/slides/themes/qblabs. Its own README calls the theme an unofficial approximation. Slides maintenance has moved to dwmkerr/slides.",
+      "additional_top_ten": false,
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/claude-toolkit/LICENSE",
+          "sha256": "7285627156a683e55b3bb650f594b2d27faf605f354535d7e7fabcfa6f15857c",
+          "url": "https://github.com/dwmkerr/claude-toolkit/blob/1d4fac984c7427b307fbdbc2a1f72e6a774ff8d6/LICENSE"
+        }
+      ],
+      "license_url": "https://github.com/dwmkerr/claude-toolkit/blob/1d4fac984c7427b307fbdbc2a1f72e6a774ff8d6/LICENSE",
+      "path": "external/claude-toolkit"
+    },
+    {
+      "id": "rw-consulting-ppt",
+      "repository": "Pikapika260214/rw-consulting-ppt",
+      "url": "https://github.com/Pikapika260214/rw-consulting-ppt",
+      "type": "third-party",
+      "mode": "submodule",
+      "license": "MIT",
+      "api_spdx": "MIT",
+      "revision": "8f93bcd100d1eed2b9bf8208e69b55d63491dd6f",
+      "stars": 473,
+      "pushed_at": "2026-10-07T12:23:11Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Image-first consulting skill and a separate image-to-editable-PPT skill. Default output is image-only PPTX. Editability and accuracy need review per deck.",
+      "additional_top_ten": true,
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/rw-consulting-ppt/LICENSE",
+          "sha256": "2e5e228882689621fa2cbefb8dd84f6c35a8ba39cac0bf53495450bbd6c56869",
+          "url": "https://github.com/Pikapika260214/rw-consulting-ppt/blob/8f93bcd100d1eed2b9bf8208e69b55d63491dd6f/LICENSE"
+        }
+      ],
+      "license_url": "https://github.com/Pikapika260214/rw-consulting-ppt/blob/8f93bcd100d1eed2b9bf8208e69b55d63491dd6f/LICENSE",
+      "path": "external/rw-consulting-ppt"
+    },
+    {
+      "id": "prodeck",
+      "repository": "rodrigolourencofarinha/ProDeck",
+      "url": "https://github.com/rodrigolourencofarinha/ProDeck",
+      "type": "third-party",
+      "mode": "submodule",
+      "license": "MIT",
+      "api_spdx": "MIT",
+      "revision": "fe8ef6a23841424777747fd09234bc11abc9247d",
+      "stars": 101,
+      "pushed_at": "2026-06-25T22:43:36Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "PowerPoint toolbar for alignment and formatting. Downloading source does not install or enable its add-in/macros.",
+      "additional_top_ten": true,
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/prodeck/LICENSE",
+          "sha256": "f5b4e8df33abc388262aabae5642078b9eced1906a36455925b53b33ececd037",
+          "url": "https://github.com/rodrigolourencofarinha/ProDeck/blob/fe8ef6a23841424777747fd09234bc11abc9247d/LICENSE"
+        }
+      ],
+      "license_url": "https://github.com/rodrigolourencofarinha/ProDeck/blob/fe8ef6a23841424777747fd09234bc11abc9247d/LICENSE",
+      "path": "external/prodeck"
+    },
+    {
+      "id": "presentation-skills",
+      "repository": "appautomaton/presentation",
+      "url": "https://github.com/appautomaton/presentation",
+      "type": "third-party",
+      "mode": "link-only",
+      "license": "MIT claim; license file not verified",
+      "api_spdx": null,
+      "revision": "1512dc8c51a6e09403a705b83a6bd363486a245b",
+      "stars": 62,
+      "pushed_at": "2026-09-13T16:01:21Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Four skills for narrative, identity and output. README claims MIT, but the license endpoint/tree did not provide a root license. Vendored fonts and icons require separate notices.",
+      "additional_top_ten": true,
+      "license_evidence": [],
+      "license_url": "https://api.github.com/repos/appautomaton/presentation/license"
+    },
+    {
+      "id": "research-deck",
+      "repository": "norahe0304-art/30x-mckinsey-research-deck",
+      "url": "https://github.com/norahe0304-art/30x-mckinsey-research-deck",
+      "type": "third-party",
+      "mode": "submodule",
+      "license": "MIT",
+      "api_spdx": "MIT",
+      "revision": "db4db36bd8c38c1ff83a41cec48f144c4d3acf71",
+      "stars": 46,
+      "pushed_at": "2026-07-09T13:49:21Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Chinese-language market-research and presentation skill with verification steps. Firm-name claims are the author's description, not evidence of affiliation or quality.",
+      "additional_top_ten": true,
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/research-deck/LICENSE",
+          "sha256": "bfa6aaf8f406545f9435f936f79a9ce7889b55fc6c484bf4344ad80675ed859d",
+          "url": "https://github.com/norahe0304-art/30x-mckinsey-research-deck/blob/db4db36bd8c38c1ff83a41cec48f144c4d3acf71/LICENSE"
+        }
+      ],
+      "license_url": "https://github.com/norahe0304-art/30x-mckinsey-research-deck/blob/db4db36bd8c38c1ff83a41cec48f144c4d3acf71/LICENSE",
+      "path": "external/research-deck"
+    },
+    {
+      "id": "paopao",
+      "repository": "Kakoutang/paopao",
+      "url": "https://github.com/Kakoutang/paopao",
+      "type": "third-party",
+      "mode": "link-only",
+      "license": "No license found",
+      "api_spdx": null,
+      "revision": "f1d9c251ea4ec12f666408924c5c20dd1fbc2fb1",
+      "stars": 42,
+      "pushed_at": "2026-07-06T22:16:52Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Local plugin for editable decks. README describes starter access and activation codes. No redistribution grant verified.",
+      "additional_top_ten": true,
+      "license_evidence": [],
+      "license_url": "https://api.github.com/repos/Kakoutang/paopao/license"
+    },
+    {
+      "id": "flight-check",
+      "repository": "analystacademy/flight-check",
+      "url": "https://github.com/analystacademy/flight-check",
+      "type": "third-party",
+      "mode": "submodule",
+      "license": "MIT",
+      "api_spdx": "MIT",
+      "revision": "ca975a186188eb62922bab59c2bc0b2a5d70382f",
+      "stars": 24,
+      "pushed_at": "2026-05-13T06:02:00Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Review instructions for citations, numerical consistency, storyline and polish. Review aid, not a guarantee that a deck is correct.",
+      "additional_top_ten": true,
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/flight-check/LICENSE",
+          "sha256": "f81245ed56b3bc2c8ebea8c63b081c330d157648c3bb71010e16e6d78bd8821a",
+          "url": "https://github.com/analystacademy/flight-check/blob/ca975a186188eb62922bab59c2bc0b2a5d70382f/LICENSE"
+        }
+      ],
+      "license_url": "https://github.com/analystacademy/flight-check/blob/ca975a186188eb62922bab59c2bc0b2a5d70382f/LICENSE",
+      "path": "external/flight-check"
+    },
+    {
+      "id": "mbb-page-maker",
+      "repository": "NomiciAI/mbb-page-maker",
+      "url": "https://github.com/NomiciAI/mbb-page-maker",
+      "type": "third-party",
+      "mode": "link-only",
+      "license": "Apache-2.0 (code); font notices unverified",
+      "api_spdx": "Apache-2.0",
+      "revision": "36074669b8041783d9637a87dfed2a8733d47357",
+      "stars": 10,
+      "pushed_at": "2026-06-18T19:05:34Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Static HTML presentation system. Bundles Inter and Libre Baskerville TTF files; corresponding font-license files were not identified. Link only until bundled-asset notices are resolved.",
+      "additional_top_ten": true,
+      "license_evidence": [],
+      "license_url": "https://github.com/NomiciAI/mbb-page-maker/blob/36074669b8041783d9637a87dfed2a8733d47357/LICENSE"
+    },
+    {
+      "id": "consulting-research-to-output",
+      "repository": "Rkamirage/consulting-research-to-output",
+      "url": "https://github.com/Rkamirage/consulting-research-to-output",
+      "type": "third-party",
+      "mode": "submodule",
+      "license": "MIT",
+      "api_spdx": "MIT",
+      "revision": "2a20ff238c91d44dc976b1e2509381964ba848ac",
+      "stars": 5,
+      "pushed_at": "2026-08-07T14:56:21Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Research-to-deliverable workflow. README explicitly describes original non-branded instructions and synthetic demo assets.",
+      "additional_top_ten": true,
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/consulting-research-to-output/LICENSE",
+          "sha256": "a84a8c1a5a46aaba139bbbeed774ae6f6b8f80f648cadfb4542a01dbf79535f7",
+          "url": "https://github.com/Rkamirage/consulting-research-to-output/blob/2a20ff238c91d44dc976b1e2509381964ba848ac/LICENSE"
+        }
+      ],
+      "license_url": "https://github.com/Rkamirage/consulting-research-to-output/blob/2a20ff238c91d44dc976b1e2509381964ba848ac/LICENSE",
+      "path": "external/consulting-research-to-output"
+    },
+    {
+      "id": "deck-md",
+      "repository": "rodrigolourencofarinha/deck.md",
+      "url": "https://github.com/rodrigolourencofarinha/deck.md",
+      "type": "third-party",
+      "mode": "submodule",
+      "license": "MIT",
+      "api_spdx": "MIT",
+      "revision": "045bfe13c03095cd299dbe9351b9910e3513ec56",
+      "stars": 4,
+      "pushed_at": "2026-05-05T22:19:07Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Alpha Markdown brief format and deck-architect skill. Keeps human control over argument, data and sources. Review generated-image rights in your own outputs.",
+      "additional_top_ten": true,
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/deck-md/LICENSE",
+          "sha256": "4c77d9ed6a087d7a4c27311142ec07e10bbc4093725d7610c05985fce57e567c",
+          "url": "https://github.com/rodrigolourencofarinha/deck.md/blob/045bfe13c03095cd299dbe9351b9910e3513ec56/LICENSE"
+        }
+      ],
+      "license_url": "https://github.com/rodrigolourencofarinha/deck.md/blob/045bfe13c03095cd299dbe9351b9910e3513ec56/LICENSE",
+      "path": "external/deck-md"
+    },
+    {
+      "id": "olito-slides",
+      "repository": "Olito-Labs/slides",
+      "url": "https://github.com/Olito-Labs/slides",
+      "type": "third-party",
+      "mode": "submodule",
+      "license": "MIT",
+      "api_spdx": "MIT",
+      "revision": "fb3bb24d413c62391f6cdc1e0b10cacaa4f999da",
+      "stars": 4,
+      "pushed_at": "2026-03-30T20:42:33Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Narrative-first HTML slides and PDF export. Includes the author's own logo examples; replace them in client output. No consulting-firm branded assets identified.",
+      "additional_top_ten": true,
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/olito-slides/LICENSE",
+          "sha256": "8aa805ae312c9771afc52c41b91ddaddb51332bf911f3336bd6c5b6511f7cf67",
+          "url": "https://github.com/Olito-Labs/slides/blob/fb3bb24d413c62391f6cdc1e0b10cacaa4f999da/LICENSE"
+        }
+      ],
+      "license_url": "https://github.com/Olito-Labs/slides/blob/fb3bb24d413c62391f6cdc1e0b10cacaa4f999da/LICENSE",
+      "path": "external/olito-slides"
+    },
+    {
+      "id": "dwmkerr-slides",
+      "repository": "dwmkerr/slides",
+      "url": "https://github.com/dwmkerr/slides",
+      "type": "third-party",
+      "mode": "submodule",
+      "license": "MIT",
+      "api_spdx": "MIT",
+      "revision": "173bcebca0cd85c7ee7011752a5c735fcb1ef1c6",
+      "stars": 2,
+      "pushed_at": "2026-09-02T15:04:33Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Maintained successor identified by claude-toolkit. HTML presentation skills with several styles. Unofficial QuantumBlack-inspired examples are not an official style guide.",
+      "additional_top_ten": false,
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/dwmkerr-slides/LICENSE",
+          "sha256": "1069bd2bcce84b830547d5dccf8824024538977a1473fac1d626740abceb12b3",
+          "url": "https://github.com/dwmkerr/slides/blob/173bcebca0cd85c7ee7011752a5c735fcb1ef1c6/LICENSE"
+        }
+      ],
+      "license_url": "https://github.com/dwmkerr/slides/blob/173bcebca0cd85c7ee7011752a5c735fcb1ef1c6/LICENSE",
+      "path": "external/dwmkerr-slides"
+    },
+    {
+      "id": "slidev",
+      "repository": "slidevjs/slidev",
+      "url": "https://github.com/slidevjs/slidev",
+      "type": "tool",
+      "mode": "submodule",
+      "license": "MIT",
+      "api_spdx": "MIT",
+      "revision": "73053ab2b9653ed475960301b56e1ce4439d9c75",
+      "stars": 49012,
+      "pushed_at": "2026-10-02T07:30:24Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Markdown/Vue slide framework. General authoring infrastructure, not a consulting design system.",
+      "additional_top_ten": false,
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/slidev/LICENSE",
+          "sha256": "42ccc89fea49360da73708efaad553c018a4959baa1d7e51e4ff7b721e31b1a2",
+          "url": "https://github.com/slidevjs/slidev/blob/73053ab2b9653ed475960301b56e1ce4439d9c75/LICENSE"
+        }
+      ],
+      "license_url": "https://github.com/slidevjs/slidev/blob/73053ab2b9653ed475960301b56e1ce4439d9c75/LICENSE",
+      "path": "external/slidev"
+    },
+    {
+      "id": "pptxgenjs",
+      "repository": "gitbrent/PptxGenJS",
+      "url": "https://github.com/gitbrent/PptxGenJS",
+      "type": "tool",
+      "mode": "submodule",
+      "license": "MIT",
+      "api_spdx": "MIT",
+      "revision": "3c9ec1b687c174952166f6a34b5e87ebf69fa469",
+      "stars": 6253,
+      "pushed_at": "2025-11-28T20:17:14Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "JavaScript PowerPoint generation with native text, tables and charts. General engine; design and evidence quality remain the author's responsibility.",
+      "additional_top_ten": false,
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/pptxgenjs/LICENSE",
+          "sha256": "7a2bfe96150786ed1908b8e63f98ebab88875c1e79e28faff6649e0f11f77e52",
+          "url": "https://github.com/gitbrent/PptxGenJS/blob/3c9ec1b687c174952166f6a34b5e87ebf69fa469/LICENSE"
+        }
+      ],
+      "license_url": "https://github.com/gitbrent/PptxGenJS/blob/3c9ec1b687c174952166f6a34b5e87ebf69fa469/LICENSE",
+      "path": "external/pptxgenjs"
+    },
+    {
+      "id": "marp-core",
+      "repository": "marp-team/marp-core",
+      "url": "https://github.com/marp-team/marp-core",
+      "type": "tool",
+      "mode": "submodule",
+      "license": "MIT",
+      "api_spdx": "MIT",
+      "revision": "01ef3a4ef0888403097e2c8f7988ea71c460cf97",
+      "stars": 1158,
+      "pushed_at": "2026-09-04T23:28:28Z",
+      "archived": false,
+      "verified_on": "2026-10-11",
+      "notes": "Markdown slide renderer and theme engine. Suitable for lightweight, repeatable slide authoring.",
+      "additional_top_ten": false,
+      "license_evidence": [
+        {
+          "upstream_path": "LICENSE",
+          "snapshot_path": "LICENSES/marp-core/LICENSE",
+          "sha256": "f2b31d0b3aa8ec75832e76b5deb842d8889f7121e9419414b4e32ab37327e64b",
+          "url": "https://github.com/marp-team/marp-core/blob/01ef3a4ef0888403097e2c8f7988ea71c460cf97/LICENSE"
+        }
+      ],
+      "license_url": "https://github.com/marp-team/marp-core/blob/01ef3a4ef0888403097e2c8f7988ea71c460cf97/LICENSE",
+      "path": "external/marp-core"
+    }
+  ],
+  "web_sources": [
+    {
+      "id": "bcg",
+      "url": "https://www.bcg.com/",
+      "type": "official",
+      "license": "Proprietary",
+      "mode": "link-only",
+      "notes": "Official firm website. No publicly accessible, reusable BCG brand portal was verified in this review. Do not interpret the homepage as a licensed brand guide.",
+      "verified_on": "2026-10-11"
+    },
+    {
+      "id": "bain",
+      "url": "https://www.bain.com/",
+      "type": "official",
+      "license": "Proprietary",
+      "mode": "link-only",
+      "notes": "Official firm website. Descriptive reference only; no internal presentation templates or brand assets included.",
+      "verified_on": "2026-10-11"
+    },
+    {
+      "id": "slideworks",
+      "url": "https://slideworks.io/resources/how-mckinsey-consultants-make-presentations",
+      "type": "guide",
+      "license": "Commercial/copyrighted; no redistribution grant verified",
+      "mode": "link-only",
+      "notes": "Author's explanation of consulting storylines and page structure. Commercial publisher, not an official firm handbook.",
+      "verified_on": "2026-10-11"
+    },
+    {
+      "id": "slideworks-identity",
+      "url": "https://slideworks.io/resources/decoding-mckinseys-visual-identity-and-powerpoint-template",
+      "type": "guide",
+      "license": "Commercial/copyrighted; no redistribution grant verified",
+      "mode": "link-only",
+      "notes": "Third-party visual-identity analysis. Historical font/color observations are not current official standards.",
+      "verified_on": "2026-10-11"
+    },
+    {
+      "id": "deckary",
+      "url": "https://deckary.com/blog/slide-deck-design-tips",
+      "type": "guide",
+      "license": "Commercial/copyrighted; no redistribution grant verified",
+      "mode": "link-only",
+      "notes": "Publisher's slide-design guidance. Read at source; no article text, screenshots or paid templates copied.",
+      "verified_on": "2026-10-11"
+    },
+    {
+      "id": "deckary-checklist",
+      "url": "https://deckary.com/blog/presentation-checklist",
+      "type": "guide",
+      "license": "Commercial/copyrighted; no redistribution grant verified",
+      "mode": "link-only",
+      "notes": "Presentation QA reference covering argument, evidence and presentation checks. Used as a reading link, not reproduced.",
+      "verified_on": "2026-10-11"
+    },
+    {
+      "id": "deckary-slide-types",
+      "url": "https://deckary.com/blog/pillar-slide-types-guide",
+      "type": "guide",
+      "license": "Commercial/copyrighted; no redistribution grant verified",
+      "mode": "link-only",
+      "notes": "Additional reading on slide types. No text or layouts copied.",
+      "verified_on": "2026-10-11"
+    }
+  ]
+}

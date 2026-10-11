@@ -1,0 +1,2 @@
+# Preserve reviewed license/NOTICE snapshots byte for byte, including CRLF.
+LICENSES/** -text -whitespace
